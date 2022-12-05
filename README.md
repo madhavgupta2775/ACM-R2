@@ -1,7 +1,7 @@
 # ACM-R2
 This repository contains the details of my progress in **Competitive Coding** and **backend-development**.
 
-##Competitive Coding
+## Competitive Coding
 Codeforces id - [madhav.gupta456](https://codeforces.com/profile/madhav.gupta456)
 Codechef id - [madhav277](https://www.codechef.com/users/madhav277)
 
@@ -13,7 +13,7 @@ I have done basic number theory and am currently studying basic DP(till recursio
 All learining was done through websites(gfg, cpalgo etc.) (though I am studying DP from YouTube), and doubts if not cleared after around an hour or two of trying were posted in the CompCoding whatsapp group
 
 
-##backend-development
+## backend-development
 
 I had started exploring backend development (backend and appdev both, but have done a lot less in appdev) after I realised that I had too much free time even after doing CompCoding
 Know school level python and MySQL
@@ -23,4 +23,4 @@ Though since the djangogirls tutorial used PythonAnywhere and SQLite I have curr
 
 
 
-###Seniors gawd
+### Seniors gawd
