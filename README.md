@@ -18,7 +18,7 @@ I have done basic number theory and am currently studying basic DP(till recursio
 
 All learining was done through websites(gfg, cpalgo etc.) (though I am studying DP from YouTube), and doubts if not cleared after around an hour or two of trying were posted in the CompCoding whatsapp group
 
-
+Seniors gawd
 
 
 ## backend-development
@@ -33,7 +33,3 @@ Currently I am more than halfway done with the roadmap (more than 75% done with 
 
 Though since the djangogirls tutorial used PythonAnywhere and SQLite I have currently used those only.
 
-
-
-
-### Seniors gawd
