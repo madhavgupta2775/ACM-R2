@@ -16,7 +16,7 @@ no longer specialist (for now) :smiling_face_with_tear:
 
 I have done basic number theory and am currently studying basic DP(till recursion and memoization) and plan to to start Graph theory (roadmap adivsed by senior)
 
-All learining was done through websites(gfg, cpalgo etc.) (though I am studying DP from YouTube), and doubts if not cleared after around an hour or two of trying were posted in the CompCoding whatsapp group
+All learning was done through websites(gfg, cpalgo etc.) (though I am studying DP from YouTube), and doubts if not cleared after around an hour or two of trying were posted in the CompCoding whatsapp group
 
 Seniors gawd
 
@@ -32,4 +32,5 @@ I use Ubuntu for backend (did dual boot setup without erasing my data on Windows
 Currently I am more than halfway done with the roadmap (more than 75% done with the djangogirls tutorial)
 
 Though since the djangogirls tutorial used PythonAnywhere and SQLite I have currently used those only.
+
 
