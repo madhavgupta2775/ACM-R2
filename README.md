@@ -1,7 +1,6 @@
 # ACM-R2
-This repository contains the details of my progress in **Competitive Coding** and **backend-development**.
+This repository contains the details of my progress in **Competitive Coding**.
 
-## Competitive Coding
 Codeforces id - [madhav.gupta456](https://codeforces.com/profile/madhav.gupta456)
 
 Codechef id - [madhav277](https://www.codechef.com/users/madhav277)
@@ -20,17 +19,5 @@ All learning was done through websites(gfg, cpalgo etc.) (though I am studying D
 
 Seniors gawd
 
-
-## backend-development
-
-I had started exploring backend development (backend and appdev both, but have done a lot less in appdev) after I realised that I had too much free time even after doing CompCoding
-
-Know school level python and MySQL
-
-I use Ubuntu for backend (dual boot)
-
-Currently I am more than halfway done with the roadmap (more than 75% done with the djangogirls tutorial)
-
-Though since the djangogirls tutorial used PythonAnywhere and SQLite I have currently used those only.
 
 
