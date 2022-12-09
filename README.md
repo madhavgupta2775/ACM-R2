@@ -9,6 +9,9 @@ I had started compcoding around 5-6 weeks ago, with no programming experience. C
 
 Have given 13 real contests and around 10 virtual contests.
 
+current rating on codeforces: 1298 (highest 1402)
+current rating on codechef: 1589 (highest 1625)
+
 Started studying intermediate/advanced algorithms after I became Specialist/Cyan on codeforces. 
 
 no longer specialist (for now) :smiling_face_with_tear:
