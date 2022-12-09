@@ -10,7 +10,7 @@ I had started compcoding around 5-6 weeks ago, with no programming experience. C
 
 Have given 12 real contests and around 10 virtual contests.
 
-Started studying intermediate/advanced algorithms on the suggestion of CompCoding group seniors after I became Specialist/Cyan on codeforces. 
+Started studying intermediate/advanced algorithms after I became Specialist/Cyan on codeforces. 
 
 no longer specialist (for now) :smiling_face_with_tear:
 
@@ -27,7 +27,7 @@ I had started exploring backend development (backend and appdev both, but have d
 
 Know school level python and MySQL
 
-I use Ubuntu for backend (did dual boot setup without erasing my data on Windows :sunglasses:)
+I use Ubuntu for backend (dual boot)
 
 Currently I am more than halfway done with the roadmap (more than 75% done with the djangogirls tutorial)
 
